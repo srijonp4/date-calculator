@@ -1,0 +1,14 @@
+html {
+  background: linear-gradient(90deg, #fdbb2d 0%, #22c1c3 100%);
+}
+
+.App {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+button {
+  border-radius: 2px;
+  overflow: hidden;
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
